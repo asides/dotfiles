@@ -4,7 +4,7 @@ set smartindent
 
 set t_Co=256 " Use 256 colors
 syntax on
-color anotherdark
+color euphrasia
 nmap <silent> <C-d> :NERDTreeToggle<CR>
 set tabstop=2
 set shiftwidth=2
